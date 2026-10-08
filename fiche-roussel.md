@@ -112,6 +112,7 @@ Bonjour Madame,
 
 Voici les réponses à vos questions.
 
+### réponse error 404 et blog non sécurisé :
 Concernant l’erreur 404, cela signifie que le serveur ne trouve pas le fichier correspondant à votre page « Livraison ». Le fichier a peut-être été déplacé, renommé ou supprimé.
 
 Dans les deux premiers cas, il faut vérifier que le fichier est bien placé au bon endroit et qu’il porte le bon nom. S’il a été supprimé et qu’aucune sauvegarde n’est disponible, il faudra faire recréer la page « Livraison » par un développeur.
