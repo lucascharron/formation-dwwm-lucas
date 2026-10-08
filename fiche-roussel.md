@@ -124,3 +124,11 @@ Avec un site en HTTP, certaines informations échangées peuvent être intercept
 Enfin, le nom de domaine correspond à l’adresse et à l’identité de votre site web, tandis que l’hébergement correspond à l’espace dans lequel sont stockés les fichiers de votre site.
 
 Il est important de conserver et de renouveler les deux. Si le nom de domaine n’est pas renouvelé, vous risquez de perdre l’utilisation de cette adresse. Si l’hébergement n’est pas renouvelé, le site ne sera plus accessible en ligne.
+
+### conclusion :
+
+Pour conclure, ce travail m’a permis de mieux comprendre le fonctionnement d’Internet et du Web, ainsi que les différents éléments qui permettent d’accéder à un site internet.
+J’ai pu apprendre le rôle des clients, des serveurs, des navigateurs et du DNS, mais aussi comprendre la structure d’une URL et les différences entre les protocoles HTTP et HTTPS.
+Ce ticket m’a également permis de découvrir comment une page web fonctionne, depuis la saisie de son adresse jusqu’à son affichage dans le navigateur, et de mieux identifier les trois langages principaux du développement web : HTML, CSS et JavaScript.
+Enfin, grâce aux problèmes rencontrés par Madame Roussel, j’ai pu mettre en pratique ces connaissances en proposant des solutions concernant l’erreur 404, la sécurité de son blog et le renouvellement de son nom de domaine et de son hébergement.
+Ce travail m’a donc permis de renforcer mes connaissances sur les bases du développement web, tout en apprenant à expliquer des problèmes techniques de manière simple et compréhensible à une cliente.
