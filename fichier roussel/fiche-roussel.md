@@ -100,13 +100,19 @@ Si jamais la cliente décide de résilier son renouvellement du nom de domaine, 
 Réponse pour la cliente :
 Bonjour madame,
 Voici les réponses à vos questions.
-# réponse erreur 404:
+# réponse erreur 404 :
 
 Cela signifie que le serveur ne trouve pas le fichier correspondant à votre page « Livraison ». Le fichier a peut-être été déplacé, renommé ou supprimé.
 Dans les deux premiers cas, il faut vérifier que le fichier est bien placé au bon endroit et qu’il porte le bon nom. S’il a été supprimé et qu’aucune sauvegarde n’est disponible, il faudra faire recréer la page « Livraison » par un développeur.
 
+# réponse sur la mention sécurité du blog :
 Concernant la mention « Non sécurisé » que vous voyez sur votre blog, cela signifie que votre site utilise le protocole HTTP et non HTTPS. La principale différence est que le HTTPS permet de sécuriser et de chiffrer les échanges de données entre le site et ses visiteurs.
 Avec un site en HTTP, certaines informations échangées peuvent être interceptées par un tiers. Je vous conseille donc de passer votre blog en HTTPS afin de mieux sécuriser les échanges et de rassurer vos visiteurs.
 Enfin, le nom de domaine correspond à l’adresse et à l’identité de votre site web, tandis que l’hébergement correspond à l’espace dans lequel sont stockés les fichiers de votre site.
 Il est important de conserver et de renouveler les deux. Si le nom de domaine n’est pas renouvelé, vous risquez de perdre l’utilisation de cette adresse. Si l’hébergement n’est pas renouvelé, le site ne sera plus accessible en ligne. 
 
+# conclusion :
+Pour conclure, ce travail m’a permis de mieux comprendre le fonctionnement d’Internet et du Web, ainsi que les différents éléments qui permettent d’accéder à un site internet.
+J’ai pu apprendre à identifier les différentes parties d’une URL, comprendre comment une page web s’affiche dans un navigateur et reconnaître les trois langages principaux du développement web : HTML, CSS et JavaScript.
+Enfin, grâce au ticket de Madame Roussel, j’ai pu mettre en pratique ces connaissances en identifiant des problèmes courants, comme l’erreur 404 ou l’absence de HTTPS, et en proposant des solutions adaptées.
+Ce travail m’a donc permis de renforcer mes connaissances de base en développement web et de mieux comprendre comment répondre aux problèmes rencontrés par un client.
