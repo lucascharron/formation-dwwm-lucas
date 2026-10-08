@@ -132,3 +132,7 @@ J’ai pu apprendre le rôle des clients, des serveurs, des navigateurs et du DN
 Ce ticket m’a également permis de découvrir comment une page web fonctionne, depuis la saisie de son adresse jusqu’à son affichage dans le navigateur, et de mieux identifier les trois langages principaux du développement web : HTML, CSS et JavaScript.
 Enfin, grâce aux problèmes rencontrés par Madame Roussel, j’ai pu mettre en pratique ces connaissances en proposant des solutions concernant l’erreur 404, la sécurité de son blog et le renouvellement de son nom de domaine et de son hébergement.
 Ce travail m’a donc permis de renforcer mes connaissances sur les bases du développement web, tout en apprenant à expliquer des problèmes techniques de manière simple et compréhensible à une cliente.
+
+### pitié te supprime pas
+
+j'espère que ca marche, pitié
