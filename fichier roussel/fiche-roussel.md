@@ -100,8 +100,11 @@ Si jamais la cliente décide de résilier son renouvellement du nom de domaine, 
 Réponse pour la cliente :
 Bonjour madame,
 Voici les réponses à vos questions.
-Concernant l’erreur 404, cela signifie que le serveur ne trouve pas le fichier correspondant à votre page « Livraison ». Le fichier a peut-être été déplacé, renommé ou supprimé.
+# réponse erreur 404:
+
+Cela signifie que le serveur ne trouve pas le fichier correspondant à votre page « Livraison ». Le fichier a peut-être été déplacé, renommé ou supprimé.
 Dans les deux premiers cas, il faut vérifier que le fichier est bien placé au bon endroit et qu’il porte le bon nom. S’il a été supprimé et qu’aucune sauvegarde n’est disponible, il faudra faire recréer la page « Livraison » par un développeur.
+
 Concernant la mention « Non sécurisé » que vous voyez sur votre blog, cela signifie que votre site utilise le protocole HTTP et non HTTPS. La principale différence est que le HTTPS permet de sécuriser et de chiffrer les échanges de données entre le site et ses visiteurs.
 Avec un site en HTTP, certaines informations échangées peuvent être interceptées par un tiers. Je vous conseille donc de passer votre blog en HTTPS afin de mieux sécuriser les échanges et de rassurer vos visiteurs.
 Enfin, le nom de domaine correspond à l’adresse et à l’identité de votre site web, tandis que l’hébergement correspond à l’espace dans lequel sont stockés les fichiers de votre site.
